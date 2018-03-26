@@ -73,3 +73,6 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Starfish/Intermediate/
+Starfish/Binaries/
+Starfish/Saved/
